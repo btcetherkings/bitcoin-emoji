@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.emoji {
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    color: #f7931a; /* Bitcoin orange color */
+    border: 5px solid #f7931a;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
