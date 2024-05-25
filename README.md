@@ -13,6 +13,8 @@ bash
 git clone https://github.com/your-username/bitcoin-emoji.git
 Open the index.html file in your web browser to view the Bitcoin emoji.
 
+Make sure to replace placeholders like your-username with your actual GitHub username and update the project-specific details accordingly.
+
 Usage
 Simply open the index.html file in a web browser to view the Bitcoin emoji. Feel free to modify the styles.css file to customize the appearance of the emoji.
 
